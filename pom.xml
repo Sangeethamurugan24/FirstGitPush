@@ -30,7 +30,7 @@
 				
 					<suiteXmlFiles>
 					
-					<suiteXmlFile>   AndroidAutomation\testng.xml             </suiteXmlFile>
+					<suiteXmlFile>src\main\java\testng.xml</suiteXmlFile>
 					
 					
 					

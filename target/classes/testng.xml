@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test maven">
     <classes>
-      <class name="Launch.LaunchApp"/>
+      
       <class name="Test.test"/>
     </classes>
   </test> <!-- Test -->

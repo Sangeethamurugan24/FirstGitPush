@@ -6,7 +6,6 @@
       <class name="Test.test">
         <methods>
           <include name="scrolldown"/>
-          <include name="Validation"/>
         </methods>
       </class> <!-- Test.test -->
     </classes>

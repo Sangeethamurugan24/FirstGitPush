@@ -3,11 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Launch.LaunchApp">
+      <class name="Test.test">
         <methods>
           <include name="scrolldown"/>
+          <include name="Validation"/>
         </methods>
-      </class> <!-- Launch.LaunchApp -->
+      </class> <!-- Test.test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
